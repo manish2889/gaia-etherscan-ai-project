@@ -20,12 +20,13 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    git clone https://github.com/manish2889/gaia-etherscan-ai-project.git
-   cd ethereum-block-analyzer
+   
+   cd gaia-etherscan-ai-project
 
-2. Install the dependencies:
+3. Install the dependencies:
    npm install
 
-3. Create a `.env` file in the root directory and add your Etherscan API key:
+4. Create a `.env` file in the root directory and add your Etherscan API key:
 NEXT_PUBLIC_ETHERSCAN_API_KEY=your_etherscan_api_key_here
 
 ## Usage
