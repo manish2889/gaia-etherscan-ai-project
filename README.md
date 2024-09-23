@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ethereum-block-analyzer.git 
+   git clone https://github.com/manish2889/gaia-etherscan-ai-project.git
    cd ethereum-block-analyzer
 
 2. Install the dependencies:
