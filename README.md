@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
    npm install
 
 3. Create a `.env` file in the root directory and add your Etherscan API key:
-ETHERSCAN_API_KEY=your_etherscan_api_key_here
+NEXT_PUBLIC_ETHERSCAN_API_KEY=your_etherscan_api_key_here
 
 ## Usage
 

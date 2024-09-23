@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const ETHERSCAN_API_KEY = 'DKGGM74F3YE7XWHGRH3HVHMRDEMIB8YJS4';
+const ETHERSCAN_API_KEY = process.env.NEXT_PUBLIC_ETHERSCAN_API_KEY;
 const GAIA_API_ENDPOINT = 'https://llama.us.gaianet.network/v1';
 const GAIA_API_KEY = ''; // Empty or any value
 const LLM_MODEL = 'llama';
